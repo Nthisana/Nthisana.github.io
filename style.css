@@ -108,6 +108,7 @@ ul {
   .list2,
   .list3 {
     display: flex;
+      margin-top:50px;
   }
   
   .heading {
