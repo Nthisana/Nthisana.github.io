@@ -108,12 +108,13 @@ ul {
   .list2,
   .list3 {
     display: flex;
+    padding-top: 00px;
   }
   
   .heading {
     text-align: center;
   }
-.margin{
-    margin-top: 150px;
-}
+  .margin{
+      margin-top: 50px;
+  }
   
